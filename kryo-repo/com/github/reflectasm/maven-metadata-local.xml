@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github</groupId>
+  <artifactId>reflectasm</artifactId>
+  <versioning>
+    <release>1.07-shaded</release>
+    <versions>
+      <version>1.07-shaded</version>
+    </versions>
+    <lastUpdated>20121212161012</lastUpdated>
+  </versioning>
+</metadata>
